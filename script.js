@@ -7,7 +7,7 @@
 // Exercício 02
 //Altere a função criada no exercício 1 para que agora o clique no botão, faça a **estilização** do novo item.
 
-function adicionaItem(event) {
+function adicionaItem() {
     //Criando uma nova tag no final.
     const novoItem = document.createElement("container")
     console.log(novoItem)
